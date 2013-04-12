@@ -1,6 +1,2 @@
-# OS X
-.DS_Store
-
-target/
-*.*sql
-
+/viikko4/OlioidenPersistointi/Oluttietokanta1/target/
+/viikko4/OlioidenPersistointi/Oluttietokanta2/target/
